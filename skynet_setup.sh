@@ -6,7 +6,7 @@ set -e
 
 ## === CONFIG === ##
 AI_USER="aiadmin"
-AI_PASS="A3samAdm1na"
+AI_PASS="Sftpuser"
 SFTP_USER="sftpuser"
 HOST_IP="192.168.3.222"
 
