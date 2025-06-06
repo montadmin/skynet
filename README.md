@@ -39,8 +39,8 @@ apt-get update && apt-get install -y python3-venv python3-dev libxml2-dev libxsl
 Стартирайте инсталацията:
 
 bash
-chmod +x news_ai_installer.sh
-./news_ai_installer.sh
+chmod +x skynet_setup.sh
+./skynet_setup.sh
 След инсталация:
 
 Тествайте процесора на новини:
